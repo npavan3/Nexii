@@ -7,7 +7,7 @@
     <property environment="env"/>
     
     <property name="ws.home" value="${basedir}"/>
-	<property name="ws.jars" value="D:\Jars"/>
+	<property name="ws.jars" value="D:/Selenium jars and sdk/"/>
     <property name="test.dest" value="${ws.home}/build"/>
     <property name="test.src" value="${ws.home}/src"/>
 	<property name="test.reportsDir" value="D:\Report"/>

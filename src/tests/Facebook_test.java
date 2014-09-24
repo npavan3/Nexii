@@ -23,7 +23,7 @@ public class Facebook_test {
 	@Test
 	public void test() {
 		driver.get("http://www.facebook.com");
-		
+		System.out.println("done");
 		System.out.println(driver.getTitle());
 		Assert.fail("Fail method");
 	}
