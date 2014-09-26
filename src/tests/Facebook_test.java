@@ -25,6 +25,8 @@ public class Facebook_test {
 		driver.get("http://www.facebook.com");
 		System.out.println("done");
 		System.out.println(driver.getTitle());
+		System.out.println("shivakrishna");
+		System.out.println("Pavan");
 		Assert.fail("Fail method");
 	}
 
